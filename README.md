@@ -1,4 +1,4 @@
-# Hundir la Flota (Nombre de tu Repositorio)
+# Hundir la Flota
 
 ¡Bienvenido al juego de Hundir la Flota! Este es una implementación en Python del clásico juego de mesa en el que dos jugadores 
 intentan hundir la flota enemiga antes de que la suya sea destruida.
@@ -43,3 +43,16 @@ intentan hundir la flota enemiga antes de que la suya sea destruida.
 * Interfaz de texto interactiva para la entrada del jugador.
 * Muestra el tablero de disparos del rival y el tablero de barcos del jugador en cada turno.
 * Mensajes sobre impactos, fallos y el fin del juego.
+
+## Licencia
+
+[ MIT License]
+
+## Agradecimientos (Opcional)
+
+* A la comunidad de Python por su increíble ecosistema de herramientas y bibliotecas.
+* A mis compañer@s del Bootcamp - Data Science: The Bridge.
+
+---
+
+¡Disfruta jugando a Hundir la Flota!
